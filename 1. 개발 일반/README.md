@@ -46,6 +46,15 @@
 - [소프트웨어 개발의 지혜](https://brunch.co.kr/@springboot/35)
 - [2018년 내가 모르는 기술들 [번역]](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
 - [개발자가 깨달은 스트레스 없는 직장생활에 대하여](https://ppss.kr/archives/149593?fbclid=IwAR2TtxPehHEkDHgYxwio4sJikzKBnqm4G4w4NoOfF-vNS7wVKgP4VfHa2Sg)
+    > 읽은 날짜 : 2024.02.13 <br>
+    > 1. 실패야 말로 가장 좋은 선생이다
+    > 2. 깨지면서 배운 것이 가장 기억에 오래 남는다.
+    > - 자기 자신을 회사의 부속품으로만 여길 것
+    > - 일에 지나치게 많은 개인적 가치를 부여하지 말 것
+    > - 나는 남보다 못하다라는 마음을 진심으로 가질 것
+    > - 자기 일을 시간 내에 끝낼 수 있다는 것만을 중요하게 여길 것
+    > - 기술적인 말만 할 것
+    > - 아무런 생각 없이 즉시 신고할 것
 - [훌륭한 팀원의 조건 Strong Views, Weakly Held](https://medium.com/@kpak/%ED%9B%8C%EB%A5%AD%ED%95%9C-%ED%8C%80%EC%9B%90%EC%9D%98-%EC%A1%B0%EA%B1%B4-strong-views-weakly-held-17880611d962)
 - [JavaScript 코드 리뷰 - 코드 리뷰 문화](https://cimfalab.github.io/deepscan/2016/08/code-review-1)
 - [문서화에 대해 아무도 말해주지 않는 것들 [번역]](http://blog.weirdx.io/post/60414)
