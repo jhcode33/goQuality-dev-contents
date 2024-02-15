@@ -48,7 +48,7 @@
 - [개발자가 깨달은 스트레스 없는 직장생활에 대하여](https://ppss.kr/archives/149593?fbclid=IwAR2TtxPehHEkDHgYxwio4sJikzKBnqm4G4w4NoOfF-vNS7wVKgP4VfHa2Sg)
     > 읽은 날짜 : 2024.02.13 <br>
     > 1. 실패야 말로 가장 좋은 선생이다
-    > 2. 깨지면서 배운 것이 가장 기억에 오래 남는다.
+    > 2. 깨지면서 배운 것이 가장 기억에 오래 남는다
     > - 자기 자신을 회사의 부속품으로만 여길 것
     > - 일에 지나치게 많은 개인적 가치를 부여하지 말 것
     > - 나는 남보다 못하다라는 마음을 진심으로 가질 것
@@ -65,6 +65,22 @@
 - [생각하라, 객체지향처럼](http://woowabros.github.io/study/2016/07/07/think_object_oriented.html)
 - [객체 지향 개발 5대 원리](http://www.nextree.co.kr/p6960/)
 - [질문을 잘하는 개발자](https://jbee.io/essay/good_questionor/)
+    > 읽은 날짜 : 2024.02.15 <br>
+    > 1. 문제와 관련되 내용을 정말 전부 모르는 것인가?
+    > 2. 정확히 무엇이 문제인지 아는가?
+    > 3. 무엇을 하다가 문제까지 도달했는가?
+    > 4. 현재 문제를 해결하기 위해 무엇까지
+    > - 정답이 있는 질문일 경우
+    >   - 예/아니오로 대답할 수 있게 질문하기
+    > - 정답이 없는 경우
+    >   - 문제 발생 상황 정리하기
+    >   1. 개발/QA/배포
+    >   2. 이슈가 발생한 환경(OS, 브라우저) 등
+    >   3. 어떤 상황에서 이슈가 발생했는지
+    >   - 어디까지 해보았는지 정리하기
+    >   1. 발생한 이슈의 원인이 무엇이라고 생각하는지?
+    >   2. 그 원인을 토대로 내린 결론
+    >   3. 결론대로 시도를 한 방법들
 - [4년을 기다린 인프런 리뉴얼 후기](https://www.hyungjoo.me/4%EB%85%84%EC%9D%84-%EA%B8%B0%EB%8B%A4%EB%A6%B0-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%98%A4%ED%94%88)
 - [이해하기 쉬운 코드 작성방법 정리](https://chodragon9.github.io/blog/easy-code/)
 - [넷플릭스의 문화 : 자유와 책임 [번역] [슬라이드]](https://www.slideshare.net/watchncompass/freedom-responsibility-culture)
