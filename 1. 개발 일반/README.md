@@ -94,6 +94,13 @@
 - [코드리뷰의 진짜 목적은 따로있다](https://blog.logi-spot.com/%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EC%9D%98-%EC%A7%84%EC%A7%9C-%EB%AA%A9%EC%A0%81%EC%9D%80-%EB%94%B0%EB%A1%9C%EC%9E%88%EB%8B%A4/)
 - [클린 아키텍쳐 - 좋은 프로그램은 무엇인가?](https://brunch.co.kr/@dotori/17)
 - [문제를 해결할 때 사고가 중요한 이유](https://engineering.linecorp.com/ko/blog/think-differently-to-solve-problems/)
+    > 읽은 날짜 : 2024.02.16 <br>
+    > **문제 해결을 위해 자료구조를 활용, 참신한 아이디어를 통해 해결할 수도 있다. 여러가지 가설을 통해서 문제를 해결했다.**
+    >
+    > - 이미지에서 base64 인코딩을 사용하는 이유
+    >   - 이미지는 특별한 문자 형태로 되어있다. 어떤 시스템에서는 다른 시스템에서 사용하는
+    >     특별한 문자 형태를 읽지 못해서 이미지를 보여줄 수 없는 경우가 있다. 
+    >     base64 인코딩은 ASCII 형태로 변환해서 다른 시스템에서도 동일한 '이미지'를 보여준다.
 - [오픈소스를 여행하는 히치하이커를 위한 안내서 [슬라이드]](https://www.slideshare.net/sunhyouplee/ss-122400504)
 - [LINE의 장애 보고와 후속 절차 문화](https://engineering.linecorp.com/ko/blog/line-failure-reporting-and-follow-up-process-culture/)
 - [성능이 중요한 이유](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
