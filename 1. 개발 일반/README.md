@@ -123,6 +123,15 @@
 - [Semantic Versioning [번역]](https://semver.org/lang/ko/)
 - [잘가, 클린 코드 [번역]](https://overreacted.io/ko/goodbye-clean-code)
 - [지속 가능한 소프트웨어를 위한 코딩 방법](https://meetup.toast.com/posts/214)
+    > 읽은 날짜 : 2024.02.19 <br>
+    > **응집, 독립을 만족하는 코드를 짜야한다**
+    >
+    > **DRY 원칙** <br>
+    > - 클래스나, 메소드를 너무 잘게 쪼개서 코드를 읽는데 흐름을 방해하는 코드가 생기면 안된다
+    > - 메서드의 이름이 너무 모호한 경우, 코드를 분석하거나 사용할 때 기능에 대해 의심을 품는 상황이 발생한다
+    > - 메서드 내부에서 매개변수 값을 수정하여, 메서드를 사용하는 클래스는 인지하기 어려운 상황이 발생한다
+    > 
+    
 - [코드 가독성에 대하여 3탄 - 상태와 절차](https://engineering.linecorp.com/ko/blog/code-readability-vol3/)
 - [서버 사이드 테스트 자동화 여정 – 1. 테스트 자동화를 시작한 계기와 그 첫 발걸음](https://engineering.linecorp.com/ko/blog/server-side-test-automation-journey-1/)
 - [들어는 보았나 몹 프로그래밍!](https://helloworld.kurly.com/blog/mob-programming/)
