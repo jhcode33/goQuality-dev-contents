@@ -29,6 +29,22 @@
 - [로버트 C. 마틴의 Clean Code를 읽고 정리를 한 글](https://sungjk.github.io/2017/07/27/clean-code.html?fbclid=IwAR2I8k1h_kkaD-Xb3VvGq6FB5ntYn6Ab3Zd_BQ42SaRYsRW3rf7VL0QeTsU)
 - [카카오 헤어샵 개발 후기 모음](https://brunch.co.kr/@cg4jins/1)
 - [좋은 코딩을 위한 13가지 간단한 규칙 [번역]](https://mingrammer.com/translation-13-simple-rules-for-good-coding/)
+    > 읽은 날짜 : 2024.02.23 <br>
+    > ****
+    >
+    > 1. 최적화보단 가독성
+    > 2. 아키텍처 우선 : 구조, 모듈화, 테스트 방법, 업데이트 방법
+    > 3. 테스트 커버리지
+    > 4. 간단하고, 단순하게 : 객체는 꼭 필요한 한 가지 일만 수행해야 함
+    > 5. 주석 : 좋은 코드는 주석 없이 이해 가능
+    > 6. 느슨한 결합 추구
+    > 7. 코드 리뷰는 가르치는 시간이 아니라 품질을 유지하는 시간이다. 팀의 95% 이상의 코드를 이해하고, 모든 업데이트 사항을 모니터링 할 수 있는 개발자가 있는 경우에만 해라
+    > 8. 리팩토링은 동작하지 않는다.
+    > 9. 피곤하거나 컨디션이 좋지 않을 때 버그와 실수가 늘어난다
+    > 10. 모든걸 한꺼번에 작성하지 말라
+    > 11. 자동화는 장기적으로 100% 성공이다
+    > 12. 나가서 취미를 가져라
+    > 13. 여유 시간에 새로운걸 배워라
 - [프로덕트 스펙 문서 작성법 스펙 문서는 왜, 어떻게 써야 하는가?](https://webuildproduct.com/%EC%8A%A4%ED%8E%99-%EB%AC%B8%EC%84%9C-%EC%9E%91%EC%84%B1%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC-ee61a1fc294f)
 - [카카오스토리 웹팀의 코드리뷰 경험](https://www.slideshare.net/OhgyunAhn/ss-61189141)
 - ['기능 공장'에서 일하고 있다는 12가지 신호 [번역]](https://brunch.co.kr/@cojette/31)
